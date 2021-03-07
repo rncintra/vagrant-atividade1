@@ -1,6 +1,7 @@
 # vagrant-mysql
 
-Steps to use this MySQL vagrant VM
+##Steps to use this MySQL vagrant VM
+
 cd \vagrant-myysql
 vagrant up
 vagrant ssh vagrant-mysql
