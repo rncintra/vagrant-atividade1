@@ -10,7 +10,7 @@ vagrant up
 vagrant ssh vagrant-mysql
 mysql -u dbmbauser -p dbmbauser! mbaimpacta
 ```
-## Database Details:
+## Database Details
 DBNAME=mbaimpacta  
 DBUSER=dbmbauser  
 DBPASSWD=dbmbauser!  
