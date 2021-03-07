@@ -1,13 +1,16 @@
 # vagrant-mysql
 
-##Steps to use this MySQL vagrant VM
+Exemplo de utilização do MySQL com Vagrant com adição de tabelas e dados
 
-cd \vagrant-myysql
+## Usage
+
+```bash
+cd \vagrant-atividade1
 vagrant up
 vagrant ssh vagrant-mysql
-mysql -u dbmbauser -p dbmbauser! -h 192.168.1.237
-
-Database Details:
+mysql -u dbmbauser -p dbmbauser! mbaimpacta
+```
+## Database Details:
 DBNAME=mbaimpacta
 DBUSER=dbmbauser
 DBPASSWD=dbmbauser!
