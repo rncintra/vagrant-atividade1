@@ -11,6 +11,8 @@ vagrant ssh vagrant-mysql
 mysql -u dbmbauser -p dbmbauser! mbaimpacta
 ```
 ## Database Details:
-DBNAME=mbaimpacta
-DBUSER=dbmbauser
-DBPASSWD=dbmbauser!
+DBNAME=mbaimpacta  
+DBUSER=dbmbauser  
+DBPASSWD=dbmbauser!  
+
+Você pode definir seus proprios valores no arquivo bootstrap.sh.
